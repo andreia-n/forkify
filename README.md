@@ -1,4 +1,4 @@
 # forkify Project
 
-Recipe application build on Udemy Course
+An Recipe application made through the Udemy Javascript Course
 
